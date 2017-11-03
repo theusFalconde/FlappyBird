@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1038729204398",
+    "firebase_url": "https://generated-tine-119115.firebaseio.com",
+    "project_id": "generated-tine-119115",
+    "storage_bucket": "generated-tine-119115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038729204398:android:a845c04f0e4e1c71",
+        "android_client_info": {
+          "package_name": "in.co.victor.chatbubblesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038729204398-fkbdjcpvs2s9j0qvf7n64hg38ndjio68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLZlcvXbeMR9kPzUfk1NIAFUM-IeuMls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038729204398:android:ad24a5c3387fcb38",
+        "android_client_info": {
+          "package_name": "com.developmind.flappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038729204398-fkbdjcpvs2s9j0qvf7n64hg38ndjio68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLZlcvXbeMR9kPzUfk1NIAFUM-IeuMls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
