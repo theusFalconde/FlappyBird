@@ -1,6 +1,7 @@
 package com.developmind.flappy;
 
 import com.badlogic.gdx.ApplicationAdapter;
+import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
@@ -14,9 +15,11 @@ import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.util.Random;
 
-public class FlappyBird extends ApplicationAdapter {
+public class FlappyBird extends ApplicationAdapter implements ApplicationListener {
 
     private SpriteBatch batch;
 
@@ -159,4 +162,6 @@ public class FlappyBird extends ApplicationAdapter {
     public void resize(int width, int height) {
         viewport.update(width, height);
     }
+
+
 }
